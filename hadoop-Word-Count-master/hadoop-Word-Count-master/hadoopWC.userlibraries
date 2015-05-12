@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="hadoopJars">
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/commons-cli-1.2.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-common-2.6.0.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-common-2.6.0-tests.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-mapreduce-examples-2.6.0.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-mapreduce-client-hs-2.6.0.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-mapreduce-client-app-2.6.0.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-mapreduce-client-core-2.6.0.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-mapreduce-client-common-2.6.0.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-mapreduce-client-shuffle-2.6.0.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-mapreduce-client-jobclient-2.6.0.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-mapreduce-client-hs-plugins-2.6.0.jar" />
+    <archive path="/home/aero/git/hadoopWC/hadoopJars/hadoop-mapreduce-client-jobclient-2.6.0-tests.jar" />
+  </library>
+</eclipse-userlibraries>
+

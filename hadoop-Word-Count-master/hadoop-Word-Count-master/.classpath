@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="hadoopJars/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-common-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-mapreduce-client-app-2.6.0.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-mapreduce-client-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-mapreduce-client-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-mapreduce-client-hs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-mapreduce-client-hs-plugins-2.6.0.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-mapreduce-client-jobclient-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-mapreduce-client-jobclient-2.6.0.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-mapreduce-client-shuffle-2.6.0.jar"/>
+	<classpathentry kind="lib" path="hadoopJars/hadoop-mapreduce-examples-2.6.0.jar"/>
+	<classpathentry kind="output" path="out/production/hadoopWC"/>
+</classpath>
